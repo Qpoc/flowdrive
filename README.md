@@ -5,6 +5,17 @@
 
 A Document Management System built with Nuxt 3 featuring seamless OnlyOffice document editing andintegration.
 
+> ⚠️ **Important Note**: This is a demonstration project focusing on OnlyOffice integration. Several features are intentionally limited or simulated.
+
+## 📸 Demo
+- https://drive.flowcloud.online
+
+### Login
+- Email: test@flowcloud.online
+- Password: developer
+- Email: testTwo@flowcloud.online
+- Password: developer
+
 ## ✨ Features
 
 ### Document Management
